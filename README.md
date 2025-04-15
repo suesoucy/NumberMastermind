@@ -37,4 +37,4 @@ You cracked the code in 3 tries!
 Guess History:
 1. 123 - 1 right spot, 1 wrong spot
 2. 456 - 0 right spot, 2 wrong spot
-3. 435 - 3 right spot, 0 wrong spot# NumberMastermind
+3. 435 - 3 right spot, 0 wrong spot
