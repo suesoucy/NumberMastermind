@@ -36,7 +36,9 @@ get_feedback(secret, guess):  -This function should receive the secret number an
 **Function:**
 
 def sampleFunc(param1, param2):
+
   Code
+  
   return returnVar1, returnVar2
 
 **Function call**
@@ -44,6 +46,7 @@ def sampleFunc(param1, param2):
 var1, var2 = sampleFunc(arg1, arg2)
 
 var1 would contain the contents of returnVar1
+
 var2 would contain the contents of returnVar2
 
 **📘 Sample Run**
